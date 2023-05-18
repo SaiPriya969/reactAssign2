@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.form{
+display:flex;
+flex-direction: column;
+}
+.regForm{
+  margin:20px;
+  border: 1px solid black;
+  padding: 20px;
+}
